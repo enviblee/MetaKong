@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS":"0x20e16A9159B794f3d186b14B2BAB1b40bdEe59cF",
+  "SCAN_LINK": "https://etherscan.io/address/0x20e16a9159b794f3d186b14b2bab1b40bdee59cf",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Meta Kong",
+  "SYMBOL": "Kong",
+  "MAX_SUPPLY": 8555,
+  "WEI_COST": 400000000000000000,
+  "DISPLAY_COST": 0.20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/meta-kong-society-meta-kong-society-meta-kong-so-3",
+  "SHOW_BACKGROUND": true
+}
